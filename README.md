@@ -15,6 +15,7 @@ The feedback form has a page of questions for every subject and teacher, across 
 ## How to use
 
 Guide- https://youtu.be/joOfPDBFH1A?si=mqE3q8aItvMtppxa
+Watch this 50 sec video to understand everything.
 1. Select the subject and teacher on the feedback page and wait for the questions to appear.
 2. Click the extension icon.
 3. Enter a number from **1 to 5** (1 = first option, 5 = last option).
