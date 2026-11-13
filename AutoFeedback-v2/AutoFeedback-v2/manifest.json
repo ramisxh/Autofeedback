@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AutoFeedback Filler",
+  "version": "2.0",
+  "description": "Ticks the same option (1-5) on every question of the IUMS feedback form. You review and submit yourself.",
+  "permissions": ["scripting"],
+  "host_permissions": ["https://sms.iul.ac.in/*"],
+  "action": { "default_title": "Fill feedback form" },
+  "background": { "service_worker": "background.js" }
+}
