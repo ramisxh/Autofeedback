@@ -43,9 +43,6 @@ The feedback form has a page of questions for every subject and teacher, across 
 - `background.js`: runs the script when you click the icon
 - `content.js`: finds the questions and ticks the chosen option
 
-## Credits
-
-Based on the original AutoFeedback extension by [blaackstring](https://github.com/blaackstring/AutoFeedback). This version adds a user-chosen rating, no auto-submit, domain-restricted permissions, error handling, and a result summary.
 
 ## Disclaimer
 
